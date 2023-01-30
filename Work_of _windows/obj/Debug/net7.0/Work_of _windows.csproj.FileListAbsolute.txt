@@ -1,0 +1,15 @@
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/bin/Debug/net7.0/Work_of _windows
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/bin/Debug/net7.0/Work_of _windows.deps.json
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/bin/Debug/net7.0/Work_of _windows.runtimeconfig.json
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/bin/Debug/net7.0/Work_of _windows.dll
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/bin/Debug/net7.0/Work_of _windows.pdb
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/Work_of _windows.csproj.AssemblyReference.cache
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/Work_of _windows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/Work_of _windows.AssemblyInfoInputs.cache
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/Work_of _windows.AssemblyInfo.cs
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/Work_of _windows.csproj.CoreCompileInputs.cache
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/Work_of _windows.dll
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/refint/Work_of _windows.dll
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/Work_of _windows.pdb
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/Work_of _windows.genruntimeconfig.cache
+/Users/Alekseisemenov/Documents/Second Lesson 30.01.2023/Cеминар 30.01.2023g./Work_of _windows/obj/Debug/net7.0/ref/Work_of _windows.dll
