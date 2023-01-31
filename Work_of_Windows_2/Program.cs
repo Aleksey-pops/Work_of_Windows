@@ -132,7 +132,7 @@
 // По этой причине вместо значений decimal д
 // ля этой задачи следует использовать double.
 
-double a = 2.50;
-double b = Math.PI;
-double c = (a * a) * b;
-Console.WriteLine(c);
+// double a = 2.50;
+// double b = Math.PI;
+// double c = (a * a) * b;
+// Console.WriteLine(c);
