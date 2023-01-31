@@ -109,3 +109,34 @@
 // Существует только одно неявное преобразование между числовыми типами с плавающей запятой: из float в double.
 // Однако можно преобразовать любой тип с плавающей запятой в любой другой 
 // тип с плавающей запятой с помощьюявного приведения. 
+
+
+
+using System;
+using System.Collections.Generic;
+ 
+namespace ConsoleApplication9
+{
+    class Program
+    {
+        const ulong number = 123543242134;
+ 
+        static void Main(string[] args)
+        {
+            Console.WriteLine(string.Join(" ", GetDigits(number)));
+            Console.ReadKey();
+        }
+ 
+        static byte[] GetDigits(ulong value)
+        {
+            List<byte> result = new List<byte>();
+            while (value != 0)
+            {
+                result.Add((byte)(value % 10));
+                value /= 10;
+            }
+            result.Reverse();
+            return result.ToArray();
+        }
+    }
+}
